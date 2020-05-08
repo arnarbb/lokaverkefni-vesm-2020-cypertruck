@@ -2,7 +2,7 @@
 ég heiti Alli B á github svo ef eh er að þá ætti að vera hægt að finna lokaverkefnin þar.
 
 
-### dagbók
+# dagbók
 
 þetta var seinasta verkefnið sem ég ákvað að burja á og var það frekar seint. 2 dögum fyrir skil var ég buinn að vera að reinast með þetta að reina að senda I2C á milli beggja arduinoana en það gekk ekki mjög vel. ég náði samt að redda því einhverneigin og hélt áfram að uppfila í allar hinar kröfunar(fjærlægðar skinjari, skjár, móttorar). ég var svo heppin að fá hjálp frá honnum Stefáni þegar ég þurfti mest á hjálp að halda og verð ég æfinlega þákklátur!! þetta burjaði allt að takka á sig mynd og var þetta allt gert á 2 daga tímaspani
 áður en skila þurfti verkefninu.
@@ -19,7 +19,7 @@ https://www.tinkercad.com/things/2dihxWdtn4A-lokaverkefni-bill/editel?sharecode=
 ## 3D hönnun
 https://www.tinkercad.com/things/crYuZ8b0IR0-cyper-truck-lokaverk-vsm2020/edit?sharecode=PwgfVcyu7e3zETZ0mH1ORJfDxj1Y-Upvc9HXLZxie8I
 
-### THE CODE
+# THE CODE
 ## fjastering
 #include <Servo.h>
 
