@@ -1,6 +1,11 @@
 # lokaverkefni-vesm-2020-cypertruck
 ég heiti Alli B á github svo ef eh er að þá ætti að vera hægt að finna lokaverkefnin þar.
 
+## video af circuit
+https://youtu.be/IkzV4lLIfbo
+
+## video af 3D honnun
+https://youtu.be/I6VX2s87Ts8
 
 # dagbók
 
