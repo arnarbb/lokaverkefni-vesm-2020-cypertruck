@@ -1,0 +1,1 @@
+# lokaverkefni-vesm-2020-cypertruck
